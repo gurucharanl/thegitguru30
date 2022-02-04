@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @thegitguru30
-- 👀 I’m interested in the different applications of AI and Machine Learning in real world scenarios
+- 👀 I am interested in the different applications of AI and Machine Learning for solving global-problems
+- 🫀 I am also fascinated by medicine and bio-engineering
 
 <!---
 thegitguru30/thegitguru30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
