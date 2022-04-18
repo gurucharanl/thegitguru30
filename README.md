@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @thegitguru30
+- 👋 Hi, I’m @gurucharanl
 
 <!---
 thegitguru30/thegitguru30 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
